@@ -16,6 +16,7 @@ public class BankAccount {
     private int accountType;
 
 
+
     public BankAccount(String firstName, String lastName, double balance, int accountType) {
         this.firstName = firstName;
         this.lastName = lastName;
